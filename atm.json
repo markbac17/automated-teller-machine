@@ -93,5 +93,25 @@
     "user_name": "mickey mouse",
     "pin_code": "1234",
     "balance": 0
+  },
+  "20": {
+    "user_name": "Greg Greg",
+    "pin_code": "1234",
+    "balance": 90
+  },
+  "21": {
+    "user_name": "Minnie Mouse",
+    "pin_code": "9999",
+    "balance": 0
+  },
+  "22": {
+    "user_name": "Elon Must",
+    "pin_code": "1111",
+    "balance": 99
+  },
+  "23": {
+    "user_name": "Donald Duck",
+    "pin_code": "1111",
+    "balance": 50
   }
 }
